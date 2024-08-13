@@ -1,6 +1,6 @@
 # DegenGaming Smart Contract
 
-This is a Solidity smart contract written to create an ERC20 token called DegenToken for Degen Gaming 🎮. A Unique token that can reward players and take their game to the next level. Tokens that can be earned by players in their game and then exchanged for rewards in their in-game store. A smart step towards increasing player loyalty and retention 🧠. The contract inherits @openzeppelin/contracts/token/ERC20/ERC20.sol. It includes functionalities for minting, burning, and transferring tokens. It is designed to be deployed on the Avalanche Testnet Fuji blockchain.
+This is a Solidity smart contract written to create an ERC20 token called DegenToken for Degen Gaming 🎮. A Unique token that can reward players and take their game to the next level. Tokens that can be earned by players in their game and then exchanged for rewards in their in-game store. A smart step towards increasing player loyalty and retention 🧠. The contract inherits @openzeppelin/contracts/token/ERC20/ERC20.sol. It includes functionalities for minting, burning, and transferring tokens. It is designed to be deployed on the Avalanche Testnet (Fuji) blockchain.
 
 
 ## Features
@@ -53,7 +53,7 @@ Compiler Version: Solidity 0.8.9
 
 License: MIT License (SPDX-License-Identifier: MIT)
 
-Snowtrack-link: https://testnet.snowtrace.io/token/0x7755BAA4376a5a3bC483dc2deED3e16Eb20f4EDA?chainId=43113
+Snowtrack-link: https://testnet.snowtrace.io/token/0x30D4af7dAB5F563ac9e4c1B0c8BacacbA14C3DC5?chainId=43113
 
 
 ## Authors
@@ -63,7 +63,7 @@ Adedayo Samuel
 
 ## Loom(video) walkthrough
 ```bash
-https://www.loom.com/share/5fedf8ae7e1845f5a25f3821ccc6cf2d?sid=bf0cc3b9-d4bf-4383-b03a-0dbb212b6019
+https://www.loom.com/share/8bb51c917951457dbffbfb89c0d468de?sid=f41ed829-65a2-417a-8f50-bb68255e170b
 ```
 
 ### Disclaimer
